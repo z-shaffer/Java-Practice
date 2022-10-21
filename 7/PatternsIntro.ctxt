@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=PatternsIntro
+comment1.params=
+comment1.target=PatternsIntro()
+comment2.params=
+comment2.target=void\ tediousTenSquares()
+comment2.text=\r\n\ Creates\ a\ row\ of\ 10\ blue\ squares,\ each\ is\ 40x40\ pixels,\ repeated\ every\ 50\r\n\ pixels\ on\ the\ x-axis.\ The\ top-left\ corner\ of\ the\ row\ is\ at\ (x,y)\ \=\r\n\ (100,100)\r\n
+comment3.params=
+comment3.target=void\ tenSquaresWhileLoop()
+comment4.params=
+comment4.target=void\ tenSquaresForLoop()
+comment5.params=numSquares\ color\ x\ y\ size\ spacing
+comment5.target=void\ rowOfSquares(int,\ java.lang.String,\ int,\ int,\ int,\ int)
+numComments=6

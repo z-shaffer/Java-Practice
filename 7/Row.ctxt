@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Row
+comment1.params=
+comment1.target=Row()
+comment10.params=sqList
+comment10.target=void\ setSqList(java.util.ArrayList)
+comment2.params=rowNumber
+comment2.target=Row(int)
+comment3.params=
+comment3.target=void\ addSquaresToList()
+comment4.params=amountToMove
+comment4.target=void\ moveVertically(int)
+comment5.params=size
+comment5.target=void\ changeSquareSize(int)
+comment6.params=
+comment6.target=void\ changeEvenToBlack()
+comment7.params=
+comment7.target=void\ changeOddToBlack()
+comment8.params=waitAmountMillis
+comment8.target=void\ delay(long)
+comment9.params=
+comment9.target=java.util.ArrayList\ getSqList()
+numComments=11

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Circle
+comment0.text=\r\n\ Short,\ one-line\ description\ of\ Circle\ class\ here.\r\n\ \r\n\ Optionally,\ include\ a\ paragraph\ that\ provides\ a\ more\ \r\n\ detailed\ description.\r\n\r\n\ @author\ Zach\ Shaffer\ \r\n\ @version\ 9/18/20\r\n
+comment1.params=rad
+comment1.target=Circle(int)
+comment1.text=\r\n\ No\ parameter\ constructor\ for\ objects\ of\ class\ Circle.\r\n
+comment2.params=
+comment2.target=double\ area()
+comment3.params=rad
+comment3.target=void\ setRadius(int)
+comment4.params=
+comment4.target=int\ getRadius()
+comment5.params=
+comment5.target=void\ askUser()
+numComments=6

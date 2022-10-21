@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TestCheckerBoard
+comment0.text=\r\n\ The\ test\ class\ TestCheckerBoard.\r\n\r\n\ @author\ \ Julia\ Dana\r\n\ @version\ 2014-04-09\r\n
+comment1.params=
+comment1.target=void\ testNoArgConstructor()
+comment1.text=\r\n\ Performs\ a\ high-level\ check\ of\ the\ no-arg\ constructor\ for\ a\ CheckerBoard.\r\n
+numComments=2

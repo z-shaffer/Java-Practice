@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TestRow2
+comment0.text=\r\n\ Tests\ the\ changes\ needed\ to\ the\ row\ class\ for\ Activity\ 3.\r\n\r\n\ @author\ \ Julia\ Dana\r\n\ @version\ 2014-04-09\r\n
+comment1.params=
+comment1.target=void\ testMoveVertically()
+comment1.text=\r\n\ Tests\ that\ the\ moveVertically\ method\ moves\ a\ row\ by\ the\ given\ amount.\r\n
+numComments=2

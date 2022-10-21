@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CheckerBoard
+comment1.params=
+comment1.target=CheckerBoard()
+comment2.params=
+comment2.target=void\ reverseColors()
+comment3.params=waitAmountMillis
+comment3.target=void\ delay(long)
+comment4.params=
+comment4.target=void\ extraCreditAnimation()
+comment5.params=
+comment5.target=java.util.ArrayList\ getRowList()
+comment6.params=rowList
+comment6.target=void\ setRowList(java.util.ArrayList)
+numComments=7
