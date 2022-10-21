@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ManyMethods
+comment0.text=\r\n\ Short,\ one-line\ description\ of\ ManyMethods\ class\ here.\r\n\ \r\n\ Optionally,\ include\ a\ paragraph\ that\ provides\ a\ more\ \r\n\ detailed\ description.\r\n\r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ManyMethods()
+comment1.text=\r\n\ No\ parameter\ constructor\ for\ objects\ of\ class\ ManyMethods.\r\n
+comment2.params=temp
+comment2.target=java.lang.String\ temperature(int)
+comment2.text=\r\n\ An\ example\ of\ a\ method.\ \ Describe\ this\ method\ here.\r\n\ \r\n\ @param\ \ y\ \ \ \ \ A\ sample\ parameter\ for\ this\ method.\r\n\ @return\ \ \ \ \ Double\ the\ parameter\ and\ return\ it.\ \r\n
+comment3.params=flour\ sugar\ eggs
+comment3.target=boolean\ cupcakes(int,\ int,\ int)
+comment4.params=card1\ card2\ card3
+comment4.target=java.lang.String\ blackjack(int,\ int,\ int)
+comment5.params=hours\ payRate\ twoWeeks
+comment5.target=double\ paycheck(int,\ double,\ boolean)
+numComments=6

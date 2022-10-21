@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ Short,\ one-line\ description\ of\ Game\ class\ here.\r\n\ \r\n\ Optionally,\ include\ a\ paragraph\ that\ provides\ a\ more\ \r\n\ detailed\ description.\r\n\r\n\ @author\ Zach\ Shaffer\r\n\ @version\ 9/30/2020\r\n
+comment1.params=
+comment1.target=Game()
+comment1.text=\r\n\ No\ parameter\ constructor\ for\ objects\ of\ class\ Game.\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ An\ example\ of\ a\ method.\ \ Describe\ this\ method\ here.\r\n\ \r\n\ @param\ \ y\ \ \ \ \ A\ sample\ parameter\ for\ this\ method.\r\n\ @return\ \ \ \ \ Double\ the\ parameter\ and\ return\ it.\ \r\n
+numComments=3

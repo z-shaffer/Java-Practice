@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=TestEmployeeDemo
+comment0.text=\r\n\ Tests\ employee\ class\r\n\r\n\ @author\ Joel\ Swanson\ -\ modified\ Brooke\ Tibbett\r\n\ @version\ 02.07.2014\ -\ modified\ 9/3/2020\r\n
+comment1.params=
+comment1.target=TestEmployeeDemo()
+comment2.params=
+comment2.target=void\ setUp()
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\ \r\n\ Called\ after\ every\ test\ case\ method.\r\n
+comment4.params=
+comment4.target=void\ resetStreams()
+comment4.text=\r\n\ Resets\ I/O\ streams.\r\n
+comment5.params=
+comment5.target=void\ checkPrintInfo()
+comment6.params=output\ msg\ expected
+comment6.target=void\ checkLine(java.util.Scanner,\ java.lang.String,\ java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ makeRandomAlphaString()
+comment7.text=\r\n\ Helper\ method\ for\ making\ random\ data.\r\n\ \r\n\ @return\ a\ random\ string\r\n
+comment8.params=len
+comment8.target=java.lang.String\ makeRandomAlphaString(int)
+comment8.text=\r\n\ Helper\ method\ for\ making\ random\ data.\r\n\ \r\n\ @param\ len\ is\ the\ desired\ length\ of\ the\ random\ string\r\n\ @return\ the\ random\ string\ generated\r\n
+numComments=9

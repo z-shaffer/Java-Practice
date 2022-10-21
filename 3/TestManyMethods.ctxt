@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=TestManyMethods
+comment0.text=\r\n\ Tests\ employee\ class\r\n\r\n\ @author\ Joel\ Swanson\ -\ modified\ Brooke\ Tibbett\r\n\ @version\ 02.07.2014\ -\ modified\ 9/3/2020\r\n
+comment1.params=
+comment1.target=TestManyMethods()
+comment2.params=
+comment2.target=void\ checkTemperatureHot()
+comment3.params=
+comment3.target=void\ checkTemperatureCold()
+comment4.params=
+comment4.target=void\ checkCupcakesNotEnough()
+comment5.params=
+comment5.target=void\ checkCupcakesEnough()
+comment6.params=
+comment6.target=void\ testBlackjackHit()
+comment7.params=
+comment7.target=void\ testBlackjackStay()
+comment8.params=
+comment8.target=void\ testBlackjackWin()
+comment9.params=
+comment9.target=void\ testBlackjackFail()
+numComments=10
