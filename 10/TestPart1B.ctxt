@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=TestPart1B
+comment0.text=\r\n\ Describe\ TestPrelab2\ here.\r\n\r\n\ @author\ Joel\ Swanson\r\n\ @version\ 02.13.2014\r\n
+comment1.params=
+comment1.target=TestPart1B()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ CheckPrelab2.\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+comment4.params=
+comment4.target=void\ testCircle()
+comment4.text=\r\n\ Checks\ the\ functionality\ of\ the\ Circle\ constructor\r\n\ with\ two\ different\ sets\ of\ data.\r\n
+comment5.params=
+comment5.target=void\ testSquare()
+comment5.text=\r\n\ Checks\ the\ functionality\ of\ the\ Square\ constructor\r\n\ with\ two\ different\ sets\ of\ data.\r\n
+comment6.params=x\ y
+comment6.target=void\ testSquareConstructor(int,\ int)
+comment6.text=\r\n\ Test\ Square\ position\ constructor.\r\n\ \r\n\ @param\ x\ The\ xPosition\ to\ test\ this\ Square.\r\n\ @param\ y\ The\ yPosition\ to\ test\ this\ Square.\r\n
+comment7.params=x\ y
+comment7.target=void\ testCircleConstructor(int,\ int)
+comment7.text=\r\n\ Test\ Circle\ position\ constructor.\r\n\ \r\n\ @param\ x\ The\ xPosition\ to\ test\ this\ Circle.\r\n\ @param\ y\ The\ yPosition\ to\ test\ this\ Circle.\r\n
+numComments=8

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Plotter
+comment0.text=\r\n\ Short,\ one-line\ description\ of\ Plotter\ class\ here.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=keyboard
+comment10.target=void\ plotPointsProper(java.util.Scanner)
+comment2.params=
+comment2.target=void\ drawXAxis()
+comment3.params=x
+comment3.target=void\ drawOneXTick(int)
+comment4.params=
+comment4.target=void\ drawAllXTicks()
+comment5.params=
+comment5.target=void\ drawYAxis()
+comment6.params=y
+comment6.target=void\ drawOneYTick(int)
+comment7.params=
+comment7.target=void\ drawAllYTicks()
+comment8.params=
+comment8.target=void\ drawAxes()
+comment9.params=keyboard
+comment9.target=void\ plotPoints(java.util.Scanner)
+numComments=11

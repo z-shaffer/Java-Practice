@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=TestMove
+comment0.text=\r\n\ Describe\ TestTire2\ here.\r\n\r\n\ @author\ Joel\ Swanson\ modified\ Brooke\ Tibbett\r\n\ @version\ 03.08.2014\ modified\ 10.30.20\r\n
+comment1.params=
+comment1.target=TestMove()
+comment2.params=
+comment2.target=void\ checkEquals()
+comment2.text=\r\n\ Test\ the\ copy\ method.\r\n
+comment3.params=
+comment3.target=void\ checkCopy()
+comment3.text=\r\n\ Test\ the\ copy\ method.\r\n
+comment4.params=
+comment4.target=void\ checkToString()
+comment4.text=\r\n\ Check\ the\ toString\ method.\r\n
+comment5.params=original
+comment5.target=void\ checkCopy(Move)
+comment5.text=\r\n\ Test\ the\ copy\ method\ with\ data.\r\n\ @param\ original\ The\ original\ tire\ to\ make\ a\ copy\ of.\r\n
+comment6.params=move\ answer
+comment6.target=void\ checkToString(Move,\ java.lang.String)
+comment6.text=\r\n\ Test\ toString\ with\ given\ parameters.\r\n\ @param\ tire\ The\ tire\ to\ test\ with.\r\n\ @param\ answer\ The\ correct\ answer\ for\ comparison.\r\n
+numComments=7

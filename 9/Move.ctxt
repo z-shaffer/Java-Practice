@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Move
+comment0.text=\r\n\ Represents\ a\ Move\ for\ the\ Player.\r\n
+comment1.params=
+comment1.target=Move()
+comment2.params=moveType\ range
+comment2.target=Move(MoveType,\ int)
+comment3.params=range
+comment3.target=void\ setRange(int)
+comment4.params=
+comment4.target=MoveType\ getMoveType()
+comment5.params=
+comment5.target=int\ getRange()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Make\ a\ toString\ method\ that\ returns\r\n\ "$\ for\ \#"\r\n\ where\ $\ is\ the\ MoveType\ and\ \#\ is\ the\ range.\r\n
+comment7.params=move
+comment7.target=boolean\ equals(Move)
+comment7.text=\r\n\ Make\ an\ equals\ method\r\n
+comment8.params=
+comment8.target=Move\ copy()
+comment8.text=\r\n\ Make\ a\ copy\ method\r\n
+numComments=9

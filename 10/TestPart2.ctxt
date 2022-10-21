@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=TestPart2
+comment0.text=\r\n\ Create\ the\ x\ and\ y\ axis\ lines\ using\ for\ loops.\r\n\r\n\ @author\ Joel\ Swanson\r\n\ @version\ 02.13.2014\r\n
+comment1.params=
+comment1.target=void\ testXAxis()
+comment1.text=\r\n\ Test\ X\ axis.\r\n
+comment2.params=
+comment2.target=void\ testYAxis()
+comment2.text=\r\n\ Test\ Y\ axis.\r\n
+comment3.params=
+comment3.target=void\ checkXAxis()
+comment3.text=\r\n\ Test\ the\ x\ axis\ drawing\ loop.\r\n
+comment4.params=
+comment4.target=void\ checkYAxis()
+comment4.text=\r\n\ Test\ the\ y\ axis\ drawing\ loop.\r\n
+comment5.params=
+comment5.target=void\ updateImageData()
+comment5.text=\r\n\ Count\ the\ various\ pixel\ count\ of\ colors\ and\ number\r\n\ of\ squares\ on\ the\ screen.\r\n
+comment6.params=img
+comment6.target=void\ checkImage(java.awt.image.BufferedImage)
+comment6.text=\r\n\ Count\ all\ of\ the\ pixels\ grouped\ by\ color\ on\ this\ image.\r\n\ \r\n\ @param\ img\ The\ image\ to\ get\ the\ pixel\ data\ from.\r\n
+comment7.params=img\ x\ y
+comment7.target=int[]\ getPixelData(java.awt.image.BufferedImage,\ int,\ int)
+comment7.text=\r\n\ Determine\ the\ color\ of\ a\ specific\ pixel\ and\ add\r\n\ it\ to\ a\ count\ for\ that\ color.\r\n\ \r\n\ @param\ img\ The\ image\ which\ is\ the\ canvas\ view.\r\n\ @param\ x\ The\ x\ value\ of\ the\ pixel\ to\ check.\r\n\ @param\ y\ The\ y\ value\ of\ the\ pixel\ to\ check.\r\n\ \r\n\ @return\ Returns\ an\ array\ with\ the\ rgb\ values\ divided.\r\n
+numComments=8
