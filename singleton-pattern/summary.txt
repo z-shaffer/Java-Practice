@@ -1,0 +1,3 @@
+I experimented with variations of the singleton pattern to determine which will be best. The classic was overall the fastest, slightly faster than the DCL, but it is not fit for a multi-threaded environment. I experimented with threadsafe next, it is significantly slower due to always synchronizing whencalled even if not necessary. Lastly, DCL was almost the fastest, and performed as required, by synchronizing only when necessary, making it the best fit.
+
+(Could not create pull requests, but the assignment says that's ok!)
