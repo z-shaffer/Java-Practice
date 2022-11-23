@@ -1,0 +1,15 @@
+We are providing a Calculator service (via our Calculator class that a user
+can instantiate an object instance of).
+
+There is only 1 public method available, "evaluate". But it accepts
+a parameter that can hold different kinds of expressions.
+
+Tests are from the perspective of a Calculator object user!!
+---------------------------------------------------------------------------
+
+Test case #1 (multi-operator expression):
+    calculator.evaluate("1+2+3")
+
+Test case #2 (spaces in expression):
+    calculator.evaluate("3 + 4 + 5")
+
