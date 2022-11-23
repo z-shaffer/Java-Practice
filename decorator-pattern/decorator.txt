@@ -1,0 +1,6 @@
+- Create GingerbreadCookie class
+- Create GingerbreadCookie test
+- Add support for cookie toppings
+- Create an option for powdered sugar
+- Create an option for sprinkles
+- Create an option for walnuts

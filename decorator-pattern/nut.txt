@@ -1,0 +1,4 @@
+- Specify abstract hasNuts() method
+- Add a nuts warning to demo.java
+- Test hasNuts on cookie with no nuts
+- Test hasNuts on a cookie with nuts
